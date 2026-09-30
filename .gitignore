@@ -1,0 +1,37 @@
+requirement2.txt
+mearge_data.py
+titanic.zip
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+# Виртуальные окружения (все возможные варианты записи)
+venv/
+.venv/
+sklearn-env/
+**/venv/
+**/.venv/
+**/sklearn-env/
+
+# Кэш Python
+__pycache__/
+*.pyc
+
+# Данные и модели
+data/
+catboost_info/
+*.zip
+*.pkl
+*.csv
+
+
+# Data and archives
+data/
+*.zip
+*.csv
+
+# ML models & logs
+catboost_info/
+*.pkl
+*.h5
